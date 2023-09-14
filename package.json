@@ -1,0 +1,20 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "swiggy clone",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "swiggy",
+    "Govind",
+    "app",
+    "React"
+  ],
+  "author": "Govind dev",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
